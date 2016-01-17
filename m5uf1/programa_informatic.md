@@ -1,6 +1,6 @@
 #1.1 Concepte de programa informàtic
 
-_Un *programa informàtic* no és més que un seguit d’ordres que es porten a
+_Un **programa informàtic** no és més que un seguit d’ordres que es porten a
 terme seqüencialment, aplicades sobre un conjunt de dades._
 
 Quines dades processa un programa informàtic? Bé, això dependrà del tipus de

@@ -45,7 +45,7 @@ guatges d’ús universal per al processament de dades en tot tipus d’aplicaci
 però, amb el pas del temps, s’ha utilitzat principalment en àmbits d’investigació
 científica i aplicacions matemàtiques.
 
-El **paradigma lògic** té com a característica principal l’aplicació de les regles
+_El **paradigma lògic** té com a característica principal l’aplicació de les regles
 de la lògica per inferir conclusions a partir de dades._
 
 Un programa lògic conté una base de coneixement sobre la que es duen a terme
